@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Контакти</string>
+    <string name="searching_text">Введіть дані пошуку</string>
+    <string name="new_chance">Спробувати ще раз</string>
+
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="cancel">Відмінити</string>
+    <string name="saving">Збереження данних до бази Realm</string>
+    <string name="search">Пошук</string>
+    <string name="like">Збережені</string>
+    <string name="dell_from_db">Дані будуть видаленні з бази даних</string>
+
+</resources>
